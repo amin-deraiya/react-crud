@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import EditUser from './EditUser';
 import ViewUser from './ViewUser';
-import { useCallback } from 'react';
 import AddNewUser from './AddNewUser';
 import usersList from './data.json'
 
